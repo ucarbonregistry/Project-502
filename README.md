@@ -5,6 +5,17 @@ The project activity is titled – “Wastewater Recycling & Reuse Project by Ve
 Tirupur”. The project is located in Veerapandi Village, Tirupur South Taluk, Tirupur, Tirupur
 District, Tamil Nadu State, India.
 
+UWR Scope: Scope 5: Conservation measures taken to
+recycle and/or reuse water, spent washing
+wastewater etc. across or within specific
+industrial processes and systems, including
+wastewater recycled/ reused in a different
+process, but within the same site or location
+of the project activity. Recycled wastewater
+used in off-site landscaping, gardening or tree
+plantations/forests activity are also eligible
+under this Scope.
+________________
 Company’s Name /Plant Treatment Capacity (m3 /d)/ 
 ___________________
 Veerapandi Effluent Treatment plant Private Limited /Installed capacity = 12000 m3 /d (12 MLD)- Operational capacity = 10750 m3 /d (10.75 MLD)
