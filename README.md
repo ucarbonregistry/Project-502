@@ -65,3 +65,73 @@ recovering sodium sulphate salt for reuse.
 
 B-9 Disposing the sludge in upcoming landfill being put up by the Federation of CETPs, Tirupur
 _______________
+
+ISSUANCE DATE: 27/05/2025
+
+QTY: 9185715 RoUs
+
+MP-01: 2015-2024
+________
+Serial Number: 0001-000001-610519-UCR-RoU-IN-502-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 610519
+_____________
+Serial Number: 0001-610520-1241020-UCR-RoU-IN-502-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 630501
+____________
+Serial Number: 0001-1241021-2185715-UCR-RoU-IN-502-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 944695
+___________
+Serial Number: 0001-2185716-3185715-UCR-RoU-IN-502-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 1000000
+___________
+Serial Number: 0001-3185716-4185715-UCR-RoU-IN-502-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 1000000
+____________
+Serial Number: 0001-4185716-5185715-UCR-RoU-IN-502-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 1000000
+__________
+Serial Number: 0001-5185716-6185715-UCR-RoU-IN-502-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 1000000
+____________
+Serial Number: 0001-6185716-7185715-UCR-RoU-IN-502-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 1000000
+___________
+Serial Number: 0001-7185716-8185715-UCR-RoU-IN-502-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 1000000
+__________
+Serial Number: 0001-8185716-9185715-UCR-RoU-IN-502-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 1000000
+______________
+
+
+
